@@ -13,7 +13,7 @@
     "debug": "^4.1.1",
     "got": "^11.8.1",
     "hawk": "^9.0.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.23",
     "slugid": "^3.1.0",
     "taskcluster-lib-urls": "^13.0.0"
   },
